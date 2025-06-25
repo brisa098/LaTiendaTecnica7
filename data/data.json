@@ -5,7 +5,7 @@
     "price": 1200,
     "description": "kiwis frescos",
     "image": "kiwis.jpg",
-    "stock": 10
+    "stock": 1
   },
 
   {
@@ -13,7 +13,7 @@
     "title": "frutilla",
     "price": 1300,
     "description": "frutilla roja",
-    "image": "kiwis.jpg",
+    "image": "frutilla.jpg",
     "stock": 10
   },
 
@@ -22,16 +22,16 @@
     "title": "manzana",
     "price": 200,
     "description": "colita jugosa",
-    "image": "kiwis.jpg",
-    "stock": 10
+    "image": "manzana.jpg",
+    "stock": 100
   },
   {
     "Id": 4,
     "title": "melon",
     "price": 1500,
     "description": "melon redondo",
-    "image": "kiwis.jpg",
-    "stock": 10
+    "image": "sandias.jpg",
+    "stock": 1000
   },
 
   {
@@ -39,7 +39,7 @@
     "title": "durazno",
     "price": 1900,
     "description": "durazno rico",
-    "image": "kiwis.jpg",
-    "stock": 10
+    "image": "durazno.jpg",
+    "stock": 10000
   }
 ]
